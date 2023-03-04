@@ -12,7 +12,7 @@ void reverse(int arr[ ], int length){
 }
 	
 	void printArray( int arr[ ] , int length) {
-		for( int i=0; i<length; i++ ) {  //  ' i ' will                                                                traverse all index  
+		for( int i=0; i<length; i++ ) {  //  ' i ' will traverse all index  
 		cout<<arr[i]<<" ";
 		}
 		cout<<endl;
